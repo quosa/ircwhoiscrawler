@@ -1,0 +1,19 @@
+Whois crawler for IRC networks.
+
+To run the tool:
+1. install gevent and geventirc
+    - https://github.com/gevent/gevent
+    - https://github.com/gwik/geventirc
+2. run python whois.py --help
+
+Sample run:
+
+$ python whois.py -s servers hubbabubba cevap quosa 
+
+
+Nick quosa is Jussi Kuosa connected from ~kuosju@82-181-151-217.bb.dnainternet.fi
+Nick quosa is connected on sinisalo.freenode.net (SE)
+
+Nick Cevap is PVC connected from ~Livno@c-83-219-197-72.cust.bredband2.com
+Nick Cevap is on #mostar @#sarajevo #bosanci @#Sandzak
+Nick Cevap is connected on *.nl (SNT at University of Twente, The Netherlands)
